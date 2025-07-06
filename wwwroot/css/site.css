@@ -1,0 +1,807 @@
+﻿/* ========== GLOBAL ========== */
+@import url('site.css');
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    margin-bottom: 60px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ========== GOOGLE FONTS ========== */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+/* ========== NAVBAR STYLES ========== */
+.navbar {
+    background-color: white;
+    padding: 15px 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.navbar-brand img {
+    max-height: 55px;
+}
+
+.navbar-nav .nav-link {
+    color: #444;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    margin-right: 12px;
+    transition: 0.2s ease-in-out;
+    text-decoration: none;
+}
+
+    .navbar-nav .nav-link.home:hover {
+        color: #F7A1C4;
+    }
+
+    .navbar-nav .nav-link.shop:hover {
+        color: #5D9CEC;
+    }
+
+    .navbar-nav .nav-link.cart:hover {
+        color: #FFCE54;
+    }
+
+    .navbar-nav .nav-link.contact:hover {
+        color: #A0D468;
+    }
+
+    .navbar-nav .nav-link.admin:hover {
+        color: #AC92EC;
+    }
+
+/* ========== BROWSE COLLECTION BUTTON ========== */
+.browse-button {
+    display: inline-block;
+    margin-top: 22px;
+    padding: 12px 28px;
+    border: 2px solid white;
+    border-radius: 30px;
+    background-color: white;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    font-weight: 300;
+    font-style: italic;
+    text-decoration: none;
+    transition: all 0.4s ease;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+    .browse-button::before {
+        content: "";
+        background-image: url('/images/hover-art-final.jpg');
+        background-size: cover;
+        background-position: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        z-index: -1;
+        transition: opacity 0.4s ease;
+        border-radius: 30px;
+    }
+
+    .browse-button:hover::before {
+        opacity: 1;
+    }
+
+    .browse-button:hover {
+        color: white;
+        border-color: white;
+    }
+
+/* ========== SEARCH BUTTON ========== */
+.search-btn {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    z-index: 1;
+    border: 1px solid #444;
+    color: #444;
+    background-color: white;
+    border-radius: 20px;
+    font-weight: 500;
+    padding: 6px 20px;
+    height: 42px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    transition: all 0.4s ease;
+}
+
+    .search-btn::before {
+        content: "";
+        background-image: url('/images/hover-art-final.jpg');
+        background-size: cover;
+        background-position: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition: opacity 0.4s ease;
+        z-index: -1;
+        border-radius: 30px;
+    }
+
+    .search-btn:hover::before {
+        opacity: 1;
+    }
+
+    .search-btn:hover {
+        color: white;
+        border-color: white;
+    }
+
+/* ========== INSTAGRAM BUTTON ========== */
+.btn-outline-primary {
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    background-color: white;
+    color: #cc3399;
+    border: 2px solid #cc3399;
+    font-weight: bold;
+    transition: all 0.4s ease;
+}
+
+    .btn-outline-primary::before {
+        content: "";
+        background-image: url('/images/footer-art.jpg');
+        background-size: cover;
+        background-position: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition: opacity 0.4s ease;
+        z-index: -1;
+    }
+
+    .btn-outline-primary:hover::before {
+        opacity: 1;
+    }
+
+    .btn-outline-primary:hover {
+        color: white;
+        border-color: black;
+    }
+
+/* ========== FOOTER ========== */
+.footer-art {
+    background-image: url('/images/footer-art.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+    .footer-art a {
+        color: white !important;
+        font-weight: 500;
+        text-decoration: none;
+    }
+
+        .footer-art a:hover {
+            text-decoration: underline;
+        }
+
+.footer-background {
+    background-image: url('/images/footer-art.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+}
+
+/* === SEARCH BAR STYLING === */
+.search-bar {
+    gap: 10px;
+}
+
+.search-input {
+    border-radius: 50px;
+    border: 1px solid #ccc;
+    padding: 10px 20px;
+    font-size: 14px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+    flex-grow: 1;
+    font-family: 'Poppins', sans-serif;
+    outline: none;
+}
+
+.search-icon {
+    background-color: transparent;
+    color: #444;
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    transition: all 0.4s ease;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+    .search-icon::before {
+        content: "";
+        background-image: url('/images/hover-art-final.jpg');
+        background-size: cover;
+        background-position: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        z-index: -1;
+        transition: opacity 0.4s ease;
+        border-radius: 50%;
+    }
+
+    .search-icon:hover::before {
+        opacity: 1;
+    }
+
+    .search-icon:hover {
+        color: white;
+        border: none;
+    }
+
+/* ======= PRODUCT PAGE STYLING ======= */
+.product-page {
+    padding: 40px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.section-title {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    color: #444;
+}
+
+/* ======= Product Grid ======= */
+.product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+
+/* ======= Product Card ======= */
+.product-card {
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    padding: 20px;
+    width: 220px;
+    transition: transform 0.3s ease;
+}
+
+    .product-card:hover {
+        transform: translateY(-5px);
+    }
+
+.product-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.product-title {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0 5px;
+    color: #444;
+    text-decoration: none;
+}
+
+.product-price {
+    font-size: 15px;
+    color: #888;
+    margin-bottom: 15px;
+}
+
+/* ======= Add to Cart ======= */
+.add-to-cart-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.quantity-input {
+    padding: 6px 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.add-to-cart-btn {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 30px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    transition: background-color 0.3s ease;
+}
+
+    .add-to-cart-btn:hover {
+        background-color: #333;
+    }
+
+/* ========== ADD TO BOTTOM OF site.css ========== */
+.cart-btn {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+    .cart-btn:hover {
+        background-color: #333;
+    }
+.view-btn {
+    display: inline-block;
+    padding: 8px 20px;
+    background-color: black;
+    border: 1.5px solid white;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition: all 0.3s ease;
+}
+
+    .view-btn::before {
+        content: "";
+        background-image: url('/images/hover-art-final.jpg'); /* or whatever image you want */
+        background-size: cover;
+        background-position: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition: opacity 0.4s ease;
+        z-index: -1;
+        border-radius: 25px;
+    }
+
+    .view-btn:hover::before {
+        opacity: 1;
+    }
+
+    .view-btn:hover {
+        color: white;
+        border-color: white;
+    }
+.fancy-logo-final {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 1.2;
+    margin-bottom: 30px;
+}
+
+.line {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin: 6px 0;
+}
+
+.logo-smiley {
+    width: 100px; /* Adjust to your liking */
+    height: auto;
+    position: relative;
+    top: -3px; /* Align with text baseline */
+    margin-left: 6px;
+}
+.contact-container {
+    max-width: 600px;
+    margin: 60px auto;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+    .contact-container h2 {
+        font-family: 'Playfair Display', serif;
+        font-size: 34px;
+        margin-bottom: 30px;
+        color: #444;
+        font-style: italic;
+    }
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: left;
+}
+
+    .contact-form label {
+        font-weight: 500;
+        color: #555;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        font-family: 'Poppins', sans-serif;
+        font-size: 14px;
+        width: 100%;
+        box-sizing: border-box;
+        background-color: #fefefe;
+    }
+
+    .contact-form button {
+        padding: 12px;
+        background-color: black;
+        color: white;
+        border: none;
+        border-radius: 30px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+        .contact-form button:hover {
+            background-image: linear-gradient(to right, #ff69b4, #ffd700);
+            color: #000;
+        }
+
+    .contact-form .note {
+        font-size: 13px;
+        color: #888;
+        margin-top: 12px;
+        text-align: center;
+    }
+.thank-you-page {
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+
+    .thank-you-page h2 {
+        font-size: 32px;
+        color: #444;
+    }
+
+    .thank-you-page p {
+        margin-top: 10px;
+        font-size: 16px;
+        color: #666;
+    }
+
+    .thank-you-page a.btn {
+        margin-top: 20px;
+        display: inline-block;
+        padding: 12px 24px;
+        background-color: black;
+        color: white;
+        border-radius: 30px;
+        text-decoration: none;
+        font-weight: 500;
+    }
+
+        .thank-you-page a.btn:hover {
+            background-image: linear-gradient(to right, #ff69b4, #ffd700);
+            color: #000;
+        }
+/* General button styles */
+button:not(.carousel-control-prev):not(.carousel-control-next),
+.btn:not(.carousel-control-prev):not(.carousel-control-next) {
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+    /* Hover background image effect */
+    button:not(.carousel-control-prev):not(.carousel-control-next)::before,
+    .btn:not(.carousel-control-prev):not(.carousel-control-next)::before {
+        content: "";
+        background-image: url('/images/hover-art-final.jpg');
+        background-size: cover;
+        background-position: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        z-index: -1;
+        transition: opacity 0.4s ease;
+        border-radius: 25px;
+    }
+
+    button:not(.carousel-control-prev):not(.carousel-control-next):hover::before,
+    .btn:not(.carousel-control-prev):not(.carousel-control-next):hover::before {
+        opacity: 1;
+    }
+
+    button:not(.carousel-control-prev):not(.carousel-control-next):hover,
+    .btn:not(.carousel-control-prev):not(.carousel-control-next):hover {
+        color: white;
+        border-color: transparent;
+    }
+
+/* Exclude hover effect on specific classes */
+.no-hover-effect::before,
+.no-hover-effect:hover::before {
+    display: none !important;
+    background-image: none !important;
+    opacity: 0 !important;
+}
+
+.no-hover-effect:hover {
+    background-image: none !important;
+}
+
+/* Special case: Delete buttons */
+.btn-danger:hover::before {
+    display: none !important;
+}
+/* Hover effect for the Thank You page Return to Shop button */
+.back-button {
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: color 0.3s ease, border-color 0.3s ease;
+    background-color: transparent;
+    color: #fff;
+    padding: 12px 32px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 500;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+    .back-button::before {
+        content: "";
+        background-image: url('/images/hover-art-final.jpg');
+        background-size: cover;
+        background-position: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        z-index: -1;
+        transition: opacity 0.4s ease;
+        border-radius: 25px;
+    }
+
+    .back-button:hover::before {
+        opacity: 1;
+    }
+
+    .back-button:hover {
+        color: white;
+    }
+/* --- Fancy Clancy Slide Cart: Minimal Clean Style --- */
+
+.cart-panel {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 400px;
+    height: 100vh;
+    background: #fff;
+    box-shadow: -4px 0 12px rgba(0, 0, 0, 0.1);
+    transition: right 0.4s ease;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+    .cart-panel.open {
+        right: 0;
+    }
+
+.cart-panel-content {
+    padding: 20px;
+    overflow-y: auto;
+    flex: 1;
+}
+
+.cart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+    .cart-header button {
+        background: none;
+        border: none;
+        font-size: 24px;
+        color: #666;
+        cursor: pointer;
+        transition: color 0.3s ease;
+    }
+
+        .cart-header button:hover {
+            color: #000;
+        }
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    padding: 15px 0;
+    border-bottom: 1px solid #eee;
+}
+
+    .cart-item img {
+        width: 60px;
+        height: 60px;
+        border-radius: 8px;
+        object-fit: cover;
+        margin-right: 15px;
+    }
+
+.cart-item-details {
+    flex-grow: 1;
+    font-size: 14px;
+    color: #333;
+}
+
+    .cart-item-details strong {
+        font-weight: 600;
+        display: block;
+        margin-bottom: 5px;
+    }
+
+.cart-item-remove {
+    background: none;
+    border: none;
+    font-size: 18px;
+    color: #d9534f;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+    .cart-item-remove:hover {
+        color: #a94442;
+    }
+
+.cart-summary {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+    font-size: 14px;
+    color: #444;
+}
+
+    .cart-summary p {
+        margin: 8px 0;
+        display: flex;
+        justify-content: space-between;
+    }
+
+.cart-actions {
+    margin-top: 20px;
+}
+
+    .cart-actions .btn {
+        width: 100%;
+        padding: 12px;
+        font-weight: 600;
+        border-radius: 25px;
+        font-size: 14px;
+        transition: all 0.3s ease;
+    }
+
+    .cart-actions .btn-primary {
+        background: black; !important;
+        color: white; !important
+        border: none;!important
+    }
+
+    .cart-actions .btn-outline {
+        background: white;
+        border: 1px solid #ccc;
+        color: #444;
+    }
+
+        .cart-actions .btn-outline:hover {
+            background-color: #f7f7f7;
+            color: black;
+        }
+/* Customize the cart panel Checkout button */
+.cart-panel .btn-primary {
+    background-color: black; /* Change from blue */
+    color: white;
+    border: none;
+    border-radius: 30px;
+}
+
+    /* Optional hover effect */
+    .cart-panel .btn-primary:hover {
+        background-color: #333;
+    }
+
+/* Customize the cart panel Clear Cart button */
+.cart-panel .btn-outline-danger {
+    background-color: white;
+    color: black;
+    border: 1px solid #000;
+    border-radius: 30px;
+    font-weight: 600;
+}
+
+    .cart-panel .btn-outline-danger:hover {
+        background-color: #000;
+        color: white;
+    }
+.cart-remove-x {
+    background: none;
+    border: none;
+    font-size: 20px;
+    color: #333;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+    .cart-remove-x:hover {
+        color: black;
+    }
