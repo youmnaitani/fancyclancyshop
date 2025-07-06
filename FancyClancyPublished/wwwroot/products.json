@@ -1,0 +1,21 @@
+{
+  [
+    {
+      "Name": "Beaded necklis",
+      "Price": 25.00,
+      "ImageUrl": "/images/beadednecklis.jpg",
+      "Material": "Cotton thread",
+      "Color": "Multicolor",
+      "Tags": "Handmade, Vintage, Unique"
+    },
+    {
+      "Name": "Vintage keychin",
+      "Price": 30.00,
+      "ImageUrl": "/images/vintagekeychain.jpg",
+      "Material": "Metal & fabric",
+      "Color": "Black",
+      "Tags": "Retro, Durable, Collectible"
+    }
+  ]
+
+}
