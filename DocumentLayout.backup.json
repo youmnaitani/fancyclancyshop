@@ -1,0 +1,651 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\wwwroot\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\wwwroot\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\fancyclancyshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\fancyclancyshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\cart\\_cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\cart\\_cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\cart\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\cart\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\cart\\adminorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\cart\\adminorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\products\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\products\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\home\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\home\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\home\\contact us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\home\\contact us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\data\\products.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\wwwroot\\data\\products.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\HomeAlt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fancyclancyshop\\Views\\Home\\HomeAlt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\adminproduct\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\adminproduct\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\orders\\orders.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\wwwroot\\orders\\orders.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|c:\\users\\canad\\onedrive\\desktop\\fancyclancyshop\\fancyclancyshop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E36CCB5-94D6-4633-BCB5-DD46E8084E6C}|fancyclancyshop\\fancyclancyshop.csproj|solutionrelative:fancyclancyshop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAHAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:52:24.966Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "fancyclancyshop\\wwwroot\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\Services\\EmailService.cs",
+              "RelativeToolTip": "fancyclancyshop\\wwwroot\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:35:19.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\products.json",
+              "RelativeDocumentMoniker": "fancyclancyshop\\wwwroot\\products.json",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\products.json",
+              "RelativeToolTip": "fancyclancyshop\\wwwroot\\products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T03:26:03.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "fancyclancyshop\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "fancyclancyshop\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-07-07T09:39:44.98Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fancyclancyshop.csproj",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\fancyclancyshop.csproj",
+              "RelativeDocumentMoniker": "fancyclancyshop\\fancyclancyshop.csproj",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\fancyclancyshop.csproj",
+              "RelativeToolTip": "fancyclancyshop\\fancyclancyshop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T22:39:59.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-06T14:23:08.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "fancyclancyshop\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "fancyclancyshop\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAKsAAAAAAAAAAAC1PX4BAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-25T23:38:43.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "fancyclancyshop\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAEcAAADAMjMzM3MtwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:43:34.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:09:32.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAABoAAACg//////8gwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-25T23:37:27.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAHsAAAAAa2ZmZmYkwJAAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T12:02:41.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Helpers\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Helpers\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Helpers\\SessionExtensions.cs",
+              "RelativeToolTip": "fancyclancyshop\\Helpers\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T23:46:30.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAODMzMzMLwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:25:41.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_CartPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Cart\\_CartPanel.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Cart\\_CartPanel.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Cart\\_CartPanel.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Cart\\_CartPanel.cshtml",
+              "ViewState": "AgIAABYAAAAgMjMzMzMrwDAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T23:42:42.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "fancyclancyshop\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADgAAACA+f////8swJ4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:18:24.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAG0AAACAmZmZmZkuwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T09:45:48.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ThankYou.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Cart\\ThankYou.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Cart\\ThankYou.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Cart\\ThankYou.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Cart\\ThankYou.cshtml",
+              "ViewState": "AgIAADoAAACgMzMzM7MwwFIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T10:55:10.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Cart\\AdminOrders.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Cart\\AdminOrders.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Cart\\AdminOrders.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Cart\\AdminOrders.cshtml",
+              "ViewState": "AgIAAGYAAAAANjMzMzMNwH0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T23:01:25.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Products\\Manage.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Products\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Products\\Manage.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Products\\Manage.cshtml",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAqwMkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T03:35:34.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T00:53:11.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThankYou.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\ThankYou.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Home\\ThankYou.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\ThankYou.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Home\\ThankYou.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T13:52:46.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAJQCAAAAAAAAAAAkwKYCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-28T23:27:16.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "fancyclancyshop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:10:03.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T15:15:04.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Contact Us.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\Contact Us.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Home\\Contact Us.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\Contact Us.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Home\\Contact Us.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T15:09:16.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "products.txt",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\Data\\products.txt",
+              "RelativeDocumentMoniker": "fancyclancyshop\\wwwroot\\Data\\products.txt",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\Data\\products.txt",
+              "RelativeToolTip": "fancyclancyshop\\wwwroot\\Data\\products.txt",
+              "ViewState": "AgIAAAAAAABAMzMzMzMrwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-25T03:14:59.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAEUAAABAAAAAAIAjwFIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T10:52:21.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\AdminProduct\\Add.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\AdminProduct\\Add.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\AdminProduct\\Add.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\AdminProduct\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T03:08:48.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Program.cs",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Program.cs",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Program.cs",
+              "RelativeToolTip": "fancyclancyshop\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABuPR0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:56:19.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "fancyclancyshop\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "fancyclancyshop\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-25T03:27:03.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeAlt.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\HomeAlt.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Home\\HomeAlt.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\HomeAlt.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Home\\HomeAlt.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T22:26:03.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T11:50:54.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Models\\Product.cs",
+              "RelativeToolTip": "fancyclancyshop\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:02:28.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\AdminProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Views\\AdminProduct\\Index.cshtml",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Views\\AdminProduct\\Index.cshtml",
+              "RelativeToolTip": "fancyclancyshop\\Views\\AdminProduct\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T03:07:28.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminProductController.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Controllers\\AdminProductController.cs",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Controllers\\AdminProductController.cs",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Controllers\\AdminProductController.cs",
+              "RelativeToolTip": "fancyclancyshop\\Controllers\\AdminProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAnwCMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:03:43.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "orders.txt",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\Orders\\orders.txt",
+              "RelativeDocumentMoniker": "fancyclancyshop\\wwwroot\\Orders\\orders.txt",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\wwwroot\\Orders\\orders.txt",
+              "RelativeToolTip": "fancyclancyshop\\wwwroot\\Orders\\orders.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-24T11:18:37.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "fancyclancyshop\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:42:01.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Models\\Order.cs",
+              "RelativeToolTip": "fancyclancyshop\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:49:43.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "fancyclancyshop\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\canad\\OneDrive\\Desktop\\fancyclancyshop\\fancyclancyshop\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "fancyclancyshop\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T00:50:30.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
